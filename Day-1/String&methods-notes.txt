@@ -1,0 +1,28 @@
+Text-Slicing
+--------------------------------------------------
+text[0:5]
+text[index:position]
+text[index:pos:step]
+----------------------------------
+Methods in String
+text.upper()->used to convert lower case to upper case
+text.lower()->used to convert upper case to lower case
+text.capitalize()->used to make first letter capital of String
+text.title()->used to make fist letter of each word of string to upper case
+
+text.count()->used to calculate length of string
+text.index(i)-------->to check index
+text.find()->if we provide a word from string,it will return its index
+
+text.rfind()->r stands for reverse
+text.strip(#)---> used to remove specified characters in the parenthesis.
+------------
+
+
+
+
+
+
+
+
+
