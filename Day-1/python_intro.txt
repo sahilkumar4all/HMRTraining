@@ -1,0 +1,40 @@
+Python Programming
+- General Purpose Language
+ - Web Dev, Game, SW, Testing, Analysis, Networking
+- Dynamically Typed (No DataType)
+- Interpreter
+-High Level Language
+-5th Gen language
+
+why use latest?
+-print is method in latest  but keyword in older, print is keyword
+-older doesnt have input function coz its has method raw_input
+-  // of 3.7==/ of 2.7
+-  true is keyword and cant be overrided in latest release.
+
+--------------------------------------------------------------------------------------------
+by default input gives data in String form,so we need to type cast/convert our input
+------------------------------------
+
+
+Datatypes in python-
+Numbers
+-int
+-float
+-complex
+
+Strings
+-str
+
+Boolean
+-true
+-false
+
+Data Colections(Native data types)
+-list
+-tuples
+-Dictionary
+-Sets/Frozen
+
+Immutable - String,tuples-which can't be modified...
+---------------------------------------------------------------------------------------------------
