@@ -1,0 +1,70 @@
+Introduction To Data Analysis And Visualization With Python
+Introduction To Data Analysis
+Installing Anaconda And Jupyter Notebook
+Introduction To Numpy
+Python List Vs Numpy Arrays
+Different Ways To Create Array In Numpy
+Handle Multi-Dimensional Array With Numpy
+Introduction To Pandas
+Data Analysis With Pandas
+Series And Data Frames
+Read CSV, Excel And Other Files With Pandas
+Exploratory Data Analysis With Pandas
+Statistical Analysis
+Mean, Median, Mode, Range, Variance, Standard Deviation
+Introduction To Data Visualization
+Plot Graphs With Matplotlib
+Plot Histograms, Bar Plot, Scatter Plot, Box Plot, Pie Charts Etc.
+2D And 3D Plots With Matplotlib
+Introduction To Seaborn
+Making Graphs More Attractive With Seaborn
+
+Data Preprocessing
+
+Data Preprocessing With Pandas
+Introduction To Scikit-Learn
+Handle Missing Data
+Label Encoding, One Hot Encoding
+Feature Scaling
+Cross Validation  Data Split Techniques
+Introduction To Machine Learning
+How Machine Learning Works
+Flow Of Machine Learning
+Different Types Of Machine Learning
+Difference Between Supervised And Unsupervised Learning
+Understanding Continuous And Categorical Data
+Introduction To Regression
+Simple And Multiple Linear Regression
+Gradient Descent
+Polynomial And Ridge Regression
+Making Predictive Models
+Logistic Regression
+Predicting Categorical Data
+K-Nearest Neighbors
+Introduction To OpenCV
+Face Detection And Recognition With OpenCV
+Recommendation Systems
+Support Vector Machines
+Naïve Bayes
+Decision Trees
+Clustering  K-Means And Hierarchical
+PCA, Dimensionality Reduction
+Introduction To Natural Language Processing
+Introduction To NLP
+Installing NLTK
+How NLP Works
+Word And Sentence Tokenizer
+Stopwords
+Stemming
+Lemmatizer
+TF-IDF
+Count Vectorizer
+Text Classification With Naïve Bayes
+Spam Classification Case Study
+Sentiment Analysis
+
+Case Studies
+Image Processing
+                  Universal Object Detection & recognition
+Text Processing
+                  Text Classification & Summarization
