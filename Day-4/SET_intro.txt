@@ -1,0 +1,8 @@
+SET ->set is a collection of objects
+declaration:
+var_name = {}
+
+Operations on SET
+1.UNION -> all but unique
+2.INTERSECTION -> common
+3.DIFFERENCE - exclude
