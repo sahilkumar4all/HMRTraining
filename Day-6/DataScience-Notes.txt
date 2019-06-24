@@ -1,0 +1,16 @@
+Data Science-
+-Data Collection - BS4
+-Data Analysis- numpy+pandas 
+	-Handle missing values
+	-Data Mining
+	-Statistical Analysis 
+	- Data preprocessing- sklearn
+	 	-Standardization
+		-label encoding
+-Data visualization - matplotlib/seaborn
+-Predictive Analysis-(ML) - sklearn
+-Data visualization
+
+
+
+
