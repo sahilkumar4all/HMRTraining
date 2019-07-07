@@ -1,0 +1,22 @@
+Logistic Regression->classification->Binary
+target must be in either O or 1
+yp = 1/(1+e^-(b0+b1x1+....))
+--->Gradient Descent-> batch gradient
+Optimization
+--->Stochastic Gradient Descent ->
+b0 = b0 - alpha*(yhat - y)*X
+
+Optimization>
+1.batch Gradient Descent
+2.Stochastic Gradient Descent
+3.mini batch Gradient Descent
+
+
+
+
+
+
+
+
+
+
