@@ -1,0 +1,6 @@
+knapsack-(Greedy Algo)
+.while the knapsack is not full.
+.start by choosing maximum value/weight.
+.if the item fits into knapsack, take all of it.
+.otherwise take so much as to fill the knapsack.
+.return the total amount and value taken.
